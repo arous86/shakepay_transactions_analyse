@@ -1,6 +1,5 @@
 ### AUTEUR : ALEXANDRE ROUSSEAU
 ### LIEU : SHERBROOKE, QC
-### LICENCE LIBRE
 
 
 class Shakepay_transactions:
