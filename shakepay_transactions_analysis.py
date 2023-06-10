@@ -80,3 +80,4 @@ class Shakepay_transactions:
         print(total_to_pay)
 
 x = Shakepay_transactions()
+
